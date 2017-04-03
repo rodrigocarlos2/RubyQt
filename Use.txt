@@ -1,0 +1,10 @@
+
+Open IRB with command:
+
+irb
+
+And after this, execute:
+
+require 'Qt'
+
+If return is true, then it is OK.
